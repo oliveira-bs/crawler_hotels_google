@@ -1,0 +1,4 @@
+.hotel_reviews_google/spiders/utils/__pycache__
+.hotel_reviews_google/spiders/__pycache__
+.pytest_cache
+./example_response_api
